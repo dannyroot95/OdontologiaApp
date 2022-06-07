@@ -20,6 +20,7 @@
     <!-- APLICAR MATERIAL DESING A LOS EDITTEXT -->
 
     <EditText
+        android:id="@+id/ed_dni"
         android:layout_width="245dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="5dp"
@@ -28,6 +29,7 @@
         android:hint="Usuario"/>
 
     <EditText
+        android:id="@+id/ed_password"
         android:layout_width="245dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="5dp"
